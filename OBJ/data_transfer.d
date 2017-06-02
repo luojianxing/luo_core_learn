@@ -1,0 +1,16 @@
+..\obj\data_transfer.o: ..\HARDWARE\ANO\Data_Transfer.c
+..\obj\data_transfer.o: ..\HARDWARE\ANO\data_transfer.h
+..\obj\data_transfer.o: ..\USER\stm32f10x.h
+..\obj\data_transfer.o: ..\CORE\core_cm3.h
+..\obj\data_transfer.o: E:\stm32\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\data_transfer.o: ..\USER\system_stm32f10x.h
+..\obj\data_transfer.o: ..\USER\stm32f10x_conf.h
+..\obj\data_transfer.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\data_transfer.o: ..\USER\stm32f10x.h
+..\obj\data_transfer.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\data_transfer.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\data_transfer.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\data_transfer.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\data_transfer.o: ..\SYSTEM\usart\usart.h
+..\obj\data_transfer.o: E:\stm32\keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\data_transfer.o: ..\SYSTEM\sys\sys.h
